@@ -1,44 +1,28 @@
-# 👋 Hi, I'm Ricky
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I'm Ricky
+<div align="center">
+![Banner](./rickguybanner.png)
 
 **`Full-Stack Developer & AI Engineer | Building solutions that won't let me sleep until they work`**
+</div>
 
-I'm a third-year Computer Engineering student at the University of Debrecen and a Full-Stack AI Trainer at Invisible Technologies. I have this unique ability to dive deep into technical problems and emerge with working solutions—whether it's self-hosting AI models, building full-stack applications, or teaching the next generation of developers. When I encounter a challenge, I don't rest until it's solved.
-
-I specialize in building AI-powered applications that solve real-world problems, from intelligent search engines serving 200+ students to AI vision models extracting critical information from documents. Every project I build goes from concept to production, leveraging modern web technologies and machine learning.
+Third-year Computer Engineering student at University of Debrecen & Full-Stack AI Trainer at Invisible Technologies. I build AI-powered applications from concept to production—self-hosting models, creating RAG systems, and solving real-world problems for 200+ users.
 
 🔗 **Portfolio:** [UniDebAsk - AI University Assistant](https://unidebask.vercel.app/)
 
----
 
-## 🚀 What I'm Up To
 
-- 🤖 Building AI-powered tools for developers and students
-- 🧠 Deep diving into machine learning, RAG systems, and self-hosted AI models
-- 💻 Training AI models and ranking programming responses at Invisible Technologies
-- 👨‍🏫 Teaching JavaScript to university students part-time
-- 🌟 Contributing to open-source projects
-- 📚 Active member of my university's coding club
+## 🚀 Featured Projects
 
----
+**[UniDebAsk](https://github.com/purelyricky/uniask)** - RAG-powered search engine serving 200+ university students  
+*Next.js • TypeScript • Self-hosted Llama 3B • RAG*
 
-## 🛠️ Featured Projects
+**[NutriScan](https://github.com/purelyricky/nutriscan)** - AI vision app extracting allergens from food product PDFs  
+*TypeScript • AI Vision • PDF Processing*
 
-### [UniDebAsk](https://github.com/purelyricky/uniask) 🎓
-An intelligent RAG-powered search engine for the University of Debrecen community. Self-hosted a fine-tuned Llama 3B model to answer student queries about university services, courses, and campus life.
-- **Tech Stack:** TypeScript, Next.js, RAG, Self-hosted LLM
-- **Impact:** Serving 200+ active students
-- **License:** Apache 2.0
+**[AvaShift](https://github.com/purelyricky/avashift_com)** - Shift management and time tracking platform  
+*TypeScript • Full-Stack*
 
-### [NutriScan](https://github.com/purelyricky/nutriscan) 🥗
-AI vision-powered web application that automatically extracts allergens and nutritional information from PDF documents containing food product descriptions.
-- **Tech Stack:** TypeScript, AI Vision Models, PDF Processing
-- **Use Case:** Food safety and nutrition tracking
 
-### [AvaShift](https://github.com/purelyricky/avashift_com) ⏰
-Modern shift request, time tracking, and employee management platform.
-- **Tech Stack:** TypeScript, Full-Stack Development
-
----
 
 ## 💻 Tech Stack
 
@@ -46,7 +30,6 @@ Modern shift request, time tracking, and employee management platform.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frameworks & Libraries:**  
@@ -72,44 +55,19 @@ Modern shift request, time tracking, and employee management platform.
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## 🌟 Experience
 
-**Full-Stack AI Trainer** @ Invisible Technologies  
-- Creating coding questions for AI models
-- Ranking and evaluating programming-related responses
-- Contributing to AI model training datasets
 
-**Part-Time JavaScript Instructor** @ University of Debrecen  
-- Teaching JavaScript fundamentals to university students
-- Mentoring students on web development projects
-- Active member of the university coding club
-
----
-
-## 🎯 Looking For
-
-I'm actively seeking **Full-Stack Developer** and **AI Engineer** internship opportunities at startups and big tech companies where I can:
-- Build scalable AI-powered applications
-- Work with cutting-edge machine learning technologies
-- Solve complex technical challenges
-- Contribute to products that make a real impact
-
----
-
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purelyricky/)
+[![X.COM](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rickyguy_me)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purelyricky)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=purelyricky&color=F85D7F&style=for-the-badge" alt="Profile views" />
-</div>
 
 <div align="center">
   <i>"I don't rest until the problem is solved."</i>
