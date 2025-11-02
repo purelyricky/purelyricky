@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I'm Ricky
 <div align="center">
-![Banner](./rickguybanner.png)
+<img src="https://github.com/purelyricky/purelyricky/blob/main/rickguybanner.png">
 
 **`Full-Stack Developer & AI Engineer | Building solutions that won't let me sleep until they work`**
 </div>
@@ -23,8 +23,9 @@ Third-year Computer Engineering student at University of Debrecen & Full-Stack A
 *TypeScript • Full-Stack*
 
 
-
+  
 ## 💻 Tech Stack
+
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,14 +61,13 @@ Third-year Computer Engineering student at University of Debrecen & Full-Stack A
 
 
 
-
 ## 📫 Let's Connect
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purelyricky/)
 [![X.COM](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rickyguy_me)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purelyricky)
 
----
 
 <div align="center">
   <i>"I don't rest until the problem is solved."</i>
